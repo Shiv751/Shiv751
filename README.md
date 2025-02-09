@@ -36,3 +36,6 @@ Continue reading on Syntest »*
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
+## Latest Blog Post
+- **** (Published on Thu, 06 Feb 2025 19:50:06 GMT)
+  - [Read More](https://levelup.gitconnected.com/which-is-better-for-prompt-engineering-deepseek-r1-or-openai-o1-b79197ef4ac3?source=rss-83a3482f034e------2)
