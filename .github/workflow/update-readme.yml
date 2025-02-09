@@ -1,0 +1,39 @@
+name: Update GitHub Profile README with Latest Medium Blog
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Runs every 6 hours
+  workflow_dispatch:  # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Fetch Latest Medium Blog Post
+        id: get_blog
+        run: |
+          RSS_FEED="https://medium.com/feed/@shivambharadwaj"
+          LATEST_POST=$(curl -s $RSS_FEED | grep -oP '(?<=<link>)[^<]+' | sed -n '3p')
+          echo "latest_post=$LATEST_POST" >> $GITHUB_ENV
+
+      - name: Check if Blog is Already in README
+        id: check_readme
+        run: |
+          if grep -q "${{ env.latest_post }}" README.md; then
+            echo "No new blog post found. Exiting."
+            exit 0
+          fi
+
+      - name: Update README with Latest Blog Post
+        run: |
+          echo "- [Latest Blog Post](${{ env.latest_post }})" >> README.md
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Updated README with latest Medium blog post"
+          branch: main
