@@ -2,7 +2,7 @@ name: Update README with Latest Blog
 
 on:
   schedule:
-    - cron: "0 0 1 * *"  # Runs every 6 hours
+    - cron: "0 0 1 * *"  # Runs every month on 1st
   workflow_dispatch:  # Allows manual trigger
 
 jobs:
@@ -10,44 +10,44 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # - name: Checkout Repository
-      #   uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      # - name: Fetch Latest Medium Blog Post
-      #   id: get_blog
-      #   run: |
-      #     RSS_FEED="https://medium.com/feed/@shivambharadwaj"
-      #     LATEST_POST=$(curl -s $RSS_FEED | grep -oP '(?<=<link>)[^<]+' | sed -n '3p')
-      #     echo "latest_post=$LATEST_POST" >> $GITHUB_ENV
+      - name: Fetch Latest Medium Blog Post
+        id: get_blog
+        run: |
+          RSS_FEED="https://medium.com/feed/@shivambharadwaj"
 
-      # - name: Check if Blog is Already in README
-      #   id: check_readme
-      #   run: |
-      #     if grep -q "${{ env.latest_post }}" README.md; then
-      #       echo "No new blog post found. Exiting."
-      #       exit 0
-      #     fi
-      - uses: JasonEtco/rss-to-readme@v1
-        with:
-          feed-url: https://medium.com/feed/@shivambharadwaj
-          readme-section: feed
-          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
-      
-      - uses: JasonEtco/rss-to-readme@v1
-        with:
-          feed-url: https://lukelowrey.com/notes/rss/
-          readme-section: notes
+          # Extract latest blog post details
+          LATEST_TITLE=$(curl -s $RSS_FEED | grep -oP '(?<=<title>)[^<]+' | sed -n '2p')
+          LATEST_LINK=$(curl -s $RSS_FEED | grep -oP '(?<=<link>)[^<]+' | sed -n '3p')
+          PUBLISH_DATE=$(curl -s $RSS_FEED | grep -oP '(?<=<pubDate>)[^<]+' | sed -n '1p')
 
-      # - name: Update README with Latest Blog Post
-      #   run: |
-      #     echo "- [Latest Blog Post](${{ env.latest_post }})" >> README.md
+          echo "LATEST_TITLE=$LATEST_TITLE" >> $GITHUB_ENV
+          echo "LATEST_LINK=$LATEST_LINK" >> $GITHUB_ENV
+          echo "PUBLISH_DATE=$PUBLISH_DATE" >> $GITHUB_ENV
 
-      # - name: Commit and Push Changes
-      #   run: |
-      #     git config --global user.email "github-actions[bot]@users.noreply.github.com"
-      #     git config --global user.name "github-actions[bot]"
-      #     git add README.md
-      #     git commit -m "Updated README with latest Medium blog post" || echo "No changes to commit"
-      #     git push origin main
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Check if Blog is Already in README
+        id: check_readme
+        run: |
+          if grep -q "${{ env.latest_post }}" README.md; then
+            echo "No new blog post found. Exiting."
+            exit 0
+          fi
+
+      - name: Update README with Latest Blog Post
+        run: |
+          sed -i '/## Latest Blog Post/d' README.md
+          echo "## Latest Blog Post" >> README.md
+          echo "- **${{ env.LATEST_TITLE }}** (Published on ${{ env.PUBLISH_DATE }})" >> README.md
+          echo "  - [Read More](${{ env.LATEST_LINK }})" >> README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Updated README with latest Medium blog post" || echo "No changes to commit"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
