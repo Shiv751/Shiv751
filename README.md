@@ -3,7 +3,7 @@ Hi, I'm Shivam Bharadwaj ,<br><br>I am a Sr. Quality Assurance Engineer with an 
 
 [![](https://visitcount.itsvg.in/api?id=shiv751&icon=2&color=3)](https://visitcount.itsvg.in)
 
-### 📙 Blog Posts
+## 📙 Blog Posts:
 <!--START_SECTION:feed-->
 #### [Which is Better for Prompt Engineering: Deepseek R1 or OpenAI o1?](https:&#x2F;&#x2F;levelup.gitconnected.com&#x2F;which-is-better-for-prompt-engineering-deepseek-r1-or-openai-o1-b79197ef4ac3?source&#x3D;rss-83a3482f034e------2) 
 *Can Deepseek R1 Outperform OpenAI o1 in Prompt Engineering Tasks?
@@ -23,7 +23,6 @@ Continue reading on Syntest »*
 <!--END_SECTION:feed-->
 
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shivam___bharadwaj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shivam-bharadwaj-796204113) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shivambharadwaj) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5591519) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/its_ShivamB) 
 
@@ -34,21 +33,6 @@ Continue reading on Syntest »*
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shiv751&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiv751&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shiv751&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=shiv751&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-
 ---
-
-
-
-- [Latest Blog Post](https://levelup.gitconnected.com/which-is-better-for-prompt-engineering-deepseek-r1-or-openai-o1-b79197ef4ac3?source=rss-83a3482f034e------2)
-## Latest Blog Post
-- **** (Published on Thu, 06 Feb 2025 19:50:06 GMT)
-  - [Read More](https://levelup.gitconnected.com/which-is-better-for-prompt-engineering-deepseek-r1-or-openai-o1-b79197ef4ac3?source=rss-83a3482f034e------2)
