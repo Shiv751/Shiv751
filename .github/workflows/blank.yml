@@ -35,12 +35,17 @@ jobs:
             exit 0
           fi
 
-      - name: Update README with Latest Blog Post
-        run: |
-          sed -i '/## Latest Blog Post/d' README.md
-          echo "## Latest Blog Post" >> README.md
-          echo "- **${{ env.LATEST_TITLE }}** (Published on ${{ env.PUBLISH_DATE }})" >> README.md
-          echo "  - [Read More](${{ env.LATEST_LINK }})" >> README.md
+      # - name: Update README with Latest Blog Post
+      #   run: |
+      #     sed -i '/## Latest Blog Post/d' README.md
+      #     echo "## Latest Blog Post" >> README.md
+      #     echo "- **${{ env.LATEST_TITLE }}** (Published on ${{ env.PUBLISH_DATE }})" >> README.md
+      #     echo "  - [Read More](${{ env.LATEST_LINK }})" >> README.md
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://medium.com/feed/@shivambharadwaj
+          readme-section: feed
+          template: "#### [{{ title }}]({{ link }}) \n*{{ contentSnippet }}*\n\n"
 
       - name: Commit and Push Changes
         run: |
