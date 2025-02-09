@@ -1,36 +1,39 @@
-# This is a basic workflow to help you get started with Actions
+name: Update GitHub Profile README with Latest Medium Blog
 
-name: CI
-
-# Controls when the workflow will run
 on:
-  # Triggers the workflow on push or pull request events but only for the "main" branch
-  push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
+  schedule:
+    - cron: "0 */0.5 * * *"  # Runs every 6 hours
+  workflow_dispatch:  # Allows manual trigger
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  update-readme:
     runs-on: ubuntu-latest
 
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
 
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
-
-      # Runs a set of commands using the runners shell
-      - name: Run a multi-line script
+      - name: Fetch Latest Medium Blog Post
+        id: get_blog
         run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
+          RSS_FEED="https://medium.com/feed/@shivambharadwaj"
+          LATEST_POST=$(curl -s $RSS_FEED | grep -oP '(?<=<link>)[^<]+' | sed -n '3p')
+          echo "latest_post=$LATEST_POST" >> $GITHUB_ENV
+
+      - name: Check if Blog is Already in README
+        id: check_readme
+        run: |
+          if grep -q "${{ env.latest_post }}" README.md; then
+            echo "No new blog post found. Exiting."
+            exit 0
+          fi
+
+      - name: Update README with Latest Blog Post
+        run: |
+          echo "- [Latest Blog Post](${{ env.latest_post }})" >> README.md
+
+      - name: Commit and Push Changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Updated README with latest Medium blog post"
+          branch: main
