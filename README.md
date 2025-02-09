@@ -5,21 +5,6 @@ Hi, I'm Shivam Bharadwaj ,<br><br>I am a Sr. Quality Assurance Engineer with an 
 
 ## 📙 Blog Posts:
 <!--START_SECTION:feed-->
-#### [Which is Better for Prompt Engineering: Deepseek R1 or OpenAI o1?](https:&#x2F;&#x2F;levelup.gitconnected.com&#x2F;which-is-better-for-prompt-engineering-deepseek-r1-or-openai-o1-b79197ef4ac3?source&#x3D;rss-83a3482f034e------2) 
-*Can Deepseek R1 Outperform OpenAI o1 in Prompt Engineering Tasks?
-Continue reading on Level Up Coding »*
-#### [What’s new in Playwright v1.50.0?](https:&#x2F;&#x2F;javascript.plainenglish.io&#x2F;whats-new-in-playwright-v1-50-0-7026fac00401?source&#x3D;rss-83a3482f034e------2) 
-*Why Upgrade to Playwright v1.50.0? Top Reasons Explained
-Continue reading on JavaScript in Plain English »*
-#### [Bruno vs. Postman: Comparison for API Testing](https:&#x2F;&#x2F;levelup.gitconnected.com&#x2F;bruno-vs-postman-comparison-for-api-testing-5585bd25a736?source&#x3D;rss-83a3482f034e------2) 
-*Key Differences Between Bruno and Postman for API Testing
-Continue reading on Level Up Coding »*
-#### [“Fix with AI” Button in Playwright Reports](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;fix-with-ai-button-in-playwright-reports-efa45344bdc7?source&#x3D;rss-83a3482f034e------2) 
-*Step-by-Step Guide to Fixing Bugs with AI in Playwright
-Continue reading on Syntest »*
-#### [GitHub Actions: Dynamically Launch Jobs for Each Folder in Your Tests](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;github-actions-dynamically-launch-jobs-for-each-folder-in-your-tests-2365ff8d231c?source&#x3D;rss-83a3482f034e------2) 
-*GitHub Actions Workflow to Parallelize Tests by Directory
-Continue reading on Syntest »*
 <!--END_SECTION:feed-->
 
 
@@ -36,6 +21,3 @@ Continue reading on Syntest »*
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
-## Latest Blog Post
-- **** (Published on Thu, 06 Feb 2025 19:50:06 GMT)
-  - [Read More](https://levelup.gitconnected.com/which-is-better-for-prompt-engineering-deepseek-r1-or-openai-o1-b79197ef4ac3?source=rss-83a3482f034e------2)
