@@ -28,3 +28,4 @@ Hi, I'm Shivam Bharadwaj ,<br><br>I am a Sr. Quality Assurance Engineer with an 
 
 
 
+- [Latest Blog Post](https://levelup.gitconnected.com/which-is-better-for-prompt-engineering-deepseek-r1-or-openai-o1-b79197ef4ac3?source=rss-83a3482f034e------2)
