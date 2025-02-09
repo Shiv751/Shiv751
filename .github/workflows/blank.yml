@@ -33,7 +33,11 @@ jobs:
           echo "- [Latest Blog Post](${{ env.latest_post }})" >> README.md
 
       - name: Commit and Push Changes
-        uses: stefanzweifel/git-auto-commit-action@v5
-        with:
-          commit_message: "Updated README with latest Medium blog post"
-          branch: main
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Updated README with latest Medium blog post" || echo "No changes to commit"
+          git push origin main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
