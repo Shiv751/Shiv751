@@ -5,6 +5,9 @@ Hi, I'm Shivam Bharadwaj ,<br><br>I am a Sr. Quality Assurance Engineer with an 
 
 ## 📙 Blog Posts:
 <!--START_SECTION:feed-->
+#### [What Are Parameterized Tests in Playwright and Why Should You Use Them?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;what-are-parameterized-tests-in-playwright-and-why-should-you-use-them-e2c8ef02a73b?source&#x3D;rss-83a3482f034e------2) 
+*Can Parameterized Tests in Playwright Save You Time and Enhance Accuracy?
+Continue reading on Syntest »*
 #### [Which is Better for Prompt Engineering: Deepseek R1 or OpenAI o1?](https:&#x2F;&#x2F;levelup.gitconnected.com&#x2F;which-is-better-for-prompt-engineering-deepseek-r1-or-openai-o1-b79197ef4ac3?source&#x3D;rss-83a3482f034e------2) 
 *Can Deepseek R1 Outperform OpenAI o1 in Prompt Engineering Tasks?
 Continue reading on Level Up Coding »*
@@ -16,9 +19,6 @@ Continue reading on JavaScript in Plain English »*
 Continue reading on Level Up Coding »*
 #### [“Fix with AI” Button in Playwright Reports](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;fix-with-ai-button-in-playwright-reports-efa45344bdc7?source&#x3D;rss-83a3482f034e------2) 
 *Step-by-Step Guide to Fixing Bugs with AI in Playwright
-Continue reading on Syntest »*
-#### [GitHub Actions: Dynamically Launch Jobs for Each Folder in Your Tests](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;github-actions-dynamically-launch-jobs-for-each-folder-in-your-tests-2365ff8d231c?source&#x3D;rss-83a3482f034e------2) 
-*GitHub Actions Workflow to Parallelize Tests by Directory
 Continue reading on Syntest »*
 <!--END_SECTION:feed-->
 
