@@ -5,6 +5,9 @@ Hi, I'm Shivam Bharadwaj ,<br><br>I am a Sr. Quality Assurance Engineer with an 
 
 ## 📙 Blog Posts:
 <!--START_SECTION:feed-->
+#### [What’s New in Playwright v1.51.0](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-playwright-v1-51-0-b247c2e00d11?source&#x3D;rss-83a3482f034e------2) 
+*A Comprehensive Guide with Examples
+Continue reading on Syntest »*
 #### [What Are Parameterized Tests in Playwright and Why Should You Use Them?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;what-are-parameterized-tests-in-playwright-and-why-should-you-use-them-e2c8ef02a73b?source&#x3D;rss-83a3482f034e------2) 
 *Can Parameterized Tests in Playwright Save You Time and Enhance Accuracy?
 Continue reading on Syntest »*
@@ -17,9 +20,6 @@ Continue reading on JavaScript in Plain English »*
 #### [Bruno vs. Postman: Comparison for API Testing](https:&#x2F;&#x2F;levelup.gitconnected.com&#x2F;bruno-vs-postman-comparison-for-api-testing-5585bd25a736?source&#x3D;rss-83a3482f034e------2) 
 *Key Differences Between Bruno and Postman for API Testing
 Continue reading on Level Up Coding »*
-#### [“Fix with AI” Button in Playwright Reports](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;fix-with-ai-button-in-playwright-reports-efa45344bdc7?source&#x3D;rss-83a3482f034e------2) 
-*Step-by-Step Guide to Fixing Bugs with AI in Playwright
-Continue reading on Syntest »*
 <!--END_SECTION:feed-->
 
 
