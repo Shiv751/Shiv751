@@ -5,6 +5,12 @@ Hi, I'm Shivam Bharadwaj ,<br><br>I am a Sr. Quality Assurance Engineer with an 
 
 ## 📙 Blog Posts:
 <!--START_SECTION:feed-->
+#### [10x Faster TypeScript](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;10x-faster-typescript-22775cd738b2?source&#x3D;rss-83a3482f034e------2) 
+*What You Need to Know?
+Continue reading on Syntest »*
+#### [Stop Emailing Test Reports! Use GitHub Pages Instead](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;stop-emailing-test-reports-use-github-pages-instead-972f3acb3b94?source&#x3D;rss-83a3482f034e------2) 
+*Are You Not Deploying Test Report to GitHub Pages?
+Continue reading on Syntest »*
 #### [What’s New in Playwright v1.51.0](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-playwright-v1-51-0-b247c2e00d11?source&#x3D;rss-83a3482f034e------2) 
 *A Comprehensive Guide with Examples
 Continue reading on Syntest »*
@@ -13,12 +19,6 @@ Continue reading on Syntest »*
 Continue reading on Syntest »*
 #### [Which is Better for Prompt Engineering: Deepseek R1 or OpenAI o1?](https:&#x2F;&#x2F;levelup.gitconnected.com&#x2F;which-is-better-for-prompt-engineering-deepseek-r1-or-openai-o1-b79197ef4ac3?source&#x3D;rss-83a3482f034e------2) 
 *Can Deepseek R1 Outperform OpenAI o1 in Prompt Engineering Tasks?
-Continue reading on Level Up Coding »*
-#### [What’s new in Playwright v1.50.0?](https:&#x2F;&#x2F;javascript.plainenglish.io&#x2F;whats-new-in-playwright-v1-50-0-7026fac00401?source&#x3D;rss-83a3482f034e------2) 
-*Why Upgrade to Playwright v1.50.0? Top Reasons Explained
-Continue reading on JavaScript in Plain English »*
-#### [Bruno vs. Postman: Comparison for API Testing](https:&#x2F;&#x2F;levelup.gitconnected.com&#x2F;bruno-vs-postman-comparison-for-api-testing-5585bd25a736?source&#x3D;rss-83a3482f034e------2) 
-*Key Differences Between Bruno and Postman for API Testing
 Continue reading on Level Up Coding »*
 <!--END_SECTION:feed-->
 
