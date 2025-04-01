@@ -5,6 +5,12 @@ Hi, I'm Shivam Bharadwaj ,<br><br>I am a Sr. Quality Assurance Engineer with an 
 
 ## 📙 Blog Posts:
 <!--START_SECTION:feed-->
+#### [How to Submit a Draft Article to Syntest?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;how-to-submit-a-draft-article-to-syntest-d7d0bc057c39?source&#x3D;rss-83a3482f034e------2) 
+*Let’s Grow Together!
+Continue reading on Syntest »*
+#### [How Playwright and Microsoft MCP Server are Reshaping AI Testing?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;how-playwright-and-microsoft-mcp-server-are-reshaping-ai-testing-a812b5e89bf1?source&#x3D;rss-83a3482f034e------2) 
+*AI Automation with Playwright &amp; Microsoft MCP Server
+Continue reading on Syntest »*
 #### [10x Faster TypeScript](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;10x-faster-typescript-22775cd738b2?source&#x3D;rss-83a3482f034e------2) 
 *What You Need to Know?
 Continue reading on Syntest »*
@@ -14,12 +20,6 @@ Continue reading on Syntest »*
 #### [What’s New in Playwright v1.51.0](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-playwright-v1-51-0-b247c2e00d11?source&#x3D;rss-83a3482f034e------2) 
 *A Comprehensive Guide with Examples
 Continue reading on Syntest »*
-#### [What Are Parameterized Tests in Playwright and Why Should You Use Them?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;what-are-parameterized-tests-in-playwright-and-why-should-you-use-them-e2c8ef02a73b?source&#x3D;rss-83a3482f034e------2) 
-*Can Parameterized Tests in Playwright Save You Time and Enhance Accuracy?
-Continue reading on Syntest »*
-#### [Which is Better for Prompt Engineering: Deepseek R1 or OpenAI o1?](https:&#x2F;&#x2F;levelup.gitconnected.com&#x2F;which-is-better-for-prompt-engineering-deepseek-r1-or-openai-o1-b79197ef4ac3?source&#x3D;rss-83a3482f034e------2) 
-*Can Deepseek R1 Outperform OpenAI o1 in Prompt Engineering Tasks?
-Continue reading on Level Up Coding »*
 <!--END_SECTION:feed-->
 
 
