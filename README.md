@@ -5,20 +5,20 @@ Hi, I'm Shivam Bharadwaj ,<br><br>I am a Sr. Quality Assurance Engineer with an 
 
 ## 📙 Blog Posts:
 <!--START_SECTION:feed-->
+#### [How Custom Assertions are Useful in Playwright?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;how-custom-assertions-are-useful-in-playwright-f1d515092889?source&#x3D;rss-83a3482f034e------2) 
+*Elevating Your Test Automation
+Continue reading on Syntest »*
+#### [How to Avoid 7 Deadly Anti-Patterns in Software Automation Testing?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;how-to-avoid-7-deadly-anti-patterns-in-software-automation-testing-2bd460424e9f?source&#x3D;rss-83a3482f034e------2) 
+*Are your automated tests causing more headaches than solutions? Discover the common pitfalls and how to steer clear of them!
+Continue reading on Syntest »*
+#### [SOLID Design Principles in Software Testing Frameworks](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;solid-design-principles-in-software-testing-frameworks-3689ab6032ff?source&#x3D;rss-83a3482f034e------2) 
+*Real-World Examples with Selenium + Python
+Continue reading on Syntest »*
 #### [How to Submit a Draft Article to Syntest?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;how-to-submit-a-draft-article-to-syntest-d7d0bc057c39?source&#x3D;rss-83a3482f034e------2) 
 *Let’s Grow Together!
 Continue reading on Syntest »*
 #### [How Playwright and Microsoft MCP Server are Reshaping AI Testing?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;how-playwright-and-microsoft-mcp-server-are-reshaping-ai-testing-a812b5e89bf1?source&#x3D;rss-83a3482f034e------2) 
 *AI Automation with Playwright &amp; Microsoft MCP Server
-Continue reading on Syntest »*
-#### [10x Faster TypeScript](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;10x-faster-typescript-22775cd738b2?source&#x3D;rss-83a3482f034e------2) 
-*What You Need to Know?
-Continue reading on Syntest »*
-#### [Stop Emailing Test Reports! Use GitHub Pages Instead](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;stop-emailing-test-reports-use-github-pages-instead-972f3acb3b94?source&#x3D;rss-83a3482f034e------2) 
-*Are You Not Deploying Test Report to GitHub Pages?
-Continue reading on Syntest »*
-#### [What’s New in Playwright v1.51.0](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-playwright-v1-51-0-b247c2e00d11?source&#x3D;rss-83a3482f034e------2) 
-*A Comprehensive Guide with Examples
 Continue reading on Syntest »*
 <!--END_SECTION:feed-->
 
