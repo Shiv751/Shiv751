@@ -5,6 +5,12 @@ Hi, I'm Shivam Bharadwaj ,<br><br>I am a Sr. Quality Assurance Engineer with an 
 
 ## 📙 Blog Posts:
 <!--START_SECTION:feed-->
+#### [What’s New in Playwright v1.53.0?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-playwright-v1-53-0-8da8e9e70b5e?source&#x3D;rss-83a3482f034e------2) 
+*Playwright just keeps getting better
+Continue reading on Syntest »*
+#### [10 Essential Tips for Automating Requests in Postman](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;10-essential-tips-for-automating-requests-in-postman-0fec1bd6be3f?source&#x3D;rss-83a3482f034e------2) 
+*Postman Scripting: Automate Requests, Process Data &amp; Secure Secrets
+Continue reading on Syntest »*
 #### [How Custom Assertions are Useful in Playwright?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;how-custom-assertions-are-useful-in-playwright-f1d515092889?source&#x3D;rss-83a3482f034e------2) 
 *Elevating Your Test Automation
 Continue reading on Syntest »*
@@ -13,12 +19,6 @@ Continue reading on Syntest »*
 Continue reading on Syntest »*
 #### [SOLID Design Principles in Software Testing Frameworks](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;solid-design-principles-in-software-testing-frameworks-3689ab6032ff?source&#x3D;rss-83a3482f034e------2) 
 *Real-World Examples with Selenium + Python
-Continue reading on Syntest »*
-#### [How to Submit a Draft Article to Syntest?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;how-to-submit-a-draft-article-to-syntest-d7d0bc057c39?source&#x3D;rss-83a3482f034e------2) 
-*Let’s Grow Together!
-Continue reading on Syntest »*
-#### [How Playwright and Microsoft MCP Server are Reshaping AI Testing?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;how-playwright-and-microsoft-mcp-server-are-reshaping-ai-testing-a812b5e89bf1?source&#x3D;rss-83a3482f034e------2) 
-*AI Automation with Playwright &amp; Microsoft MCP Server
 Continue reading on Syntest »*
 <!--END_SECTION:feed-->
 
