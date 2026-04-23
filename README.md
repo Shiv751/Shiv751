@@ -5,7 +5,20 @@ Hi, I'm Shivam Bharadwaj ,<br><br>I am a Sr. Quality Assurance Engineer with an 
 
 ## 📙 Blog Posts:
 <!--START_SECTION:feed-->
-#### [What’s New in Playwright v1.53.0?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-playwright-v1-53-0-8da8e9e70b5e?source&#x3D;rss-83a3482f034e------2) 
+#### [10 Best Free MCP Servers for Developers in 2026](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;10-best-free-mcp-servers-for-developers-in-2026-20bd96314f4b?source&#x3D;rss-83a3482f034e------2) 
+*TL;DR — Imagine your AI assistant could actually do things — not just explain code, but open a browser, talk to your database, run your…
+Continue reading on Syntest »*
+#### [Why I Stopped Writing Playwright Tests &amp; Let Copilot Read the Jira Ticket and Create PR Instead?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;why-i-stopped-writing-playwright-tests-let-copilot-read-the-jira-ticket-and-create-pr-instead-e1b9bbfa0222?source&#x3D;rss-83a3482f034e------2) 
+*How I Used MCP Servers to Turn Jira Tickets Into Reviewable Playwright PRs?
+Continue reading on Syntest »*
+#### [ What’s New in Playwright v1.59.0](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-playwright-v1-59-0-3a34973e7175?source&#x3D;rss-83a3482f034e------2) 
+*Playwright v1.59.0 Is a Different Beast — Here’s Everything You Need to Know
+Continue reading on Syntest »*
+#### [What’s New in Chrome DevTools 146?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-chrome-devtools-146-d323ff12ecdf?source&#x3D;rss-83a3482f034e------2) 
+*A Developer-Friendly Deep Dive
+Continue reading on Syntest »*
+#### [Few Simple Psychological Tweaks Made Claude 55 % Smarter](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;few-simple-psychological-tweaks-made-claude-55-smarter-f494c4abfb0a?source&#x3D;rss-83a3482f034e------2) 
+*The #### [What’s New in Playwright v1.53.0?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-playwright-v1-53-0-8da8e9e70b5e?source&#x3D;rss-83a3482f034e------2) 
 *Playwright just keeps getting better
 Continue reading on Syntest »*
 #### [10 Essential Tips for Automating Requests in Postman](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;10-essential-tips-for-automating-requests-in-postman-0fec1bd6be3f?source&#x3D;rss-83a3482f034e------2) 
@@ -19,6 +32,7 @@ Continue reading on Syntest »*
 Continue reading on Syntest »*
 #### [SOLID Design Principles in Software Testing Frameworks](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;solid-design-principles-in-software-testing-frameworks-3689ab6032ff?source&#x3D;rss-83a3482f034e------2) 
 *Real-World Examples with Selenium + Python
+Continue reading on Syntest »*00 Prompt Experiment
 Continue reading on Syntest »*
 <!--END_SECTION:feed-->
 
