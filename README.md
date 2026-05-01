@@ -5,6 +5,9 @@ Hi, I'm Shivam Bharadwaj ,<br><br>I am a Sr. Quality Assurance Engineer with an 
 
 ## 📙 Blog Posts:
 <!--START_SECTION:feed-->
+#### [You Wouldn’t Give a Intern Root Access then Why Are You Running AI Agents Without a Sandbox?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;you-wouldnt-give-a-intern-root-access-then-why-are-you-running-ai-agents-without-a-sandbox-bb8fc7507c7c?source&#x3D;rss-83a3482f034e------2) 
+*A deep-dive into building enterprise-grade agentic systems that are safe by default, not secure by accident.
+Continue reading on Syntest »*
 #### [10 Best Free MCP Servers for Developers in 2026](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;10-best-free-mcp-servers-for-developers-in-2026-20bd96314f4b?source&#x3D;rss-83a3482f034e------2) 
 *TL;DR — Imagine your AI assistant could actually do things — not just explain code, but open a browser, talk to your database, run your…
 Continue reading on Syntest »*
@@ -16,23 +19,6 @@ Continue reading on Syntest »*
 Continue reading on Syntest »*
 #### [What’s New in Chrome DevTools 146?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-chrome-devtools-146-d323ff12ecdf?source&#x3D;rss-83a3482f034e------2) 
 *A Developer-Friendly Deep Dive
-Continue reading on Syntest »*
-#### [Few Simple Psychological Tweaks Made Claude 55 % Smarter](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;few-simple-psychological-tweaks-made-claude-55-smarter-f494c4abfb0a?source&#x3D;rss-83a3482f034e------2) 
-*The #### [What’s New in Playwright v1.53.0?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-playwright-v1-53-0-8da8e9e70b5e?source&#x3D;rss-83a3482f034e------2) 
-*Playwright just keeps getting better
-Continue reading on Syntest »*
-#### [10 Essential Tips for Automating Requests in Postman](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;10-essential-tips-for-automating-requests-in-postman-0fec1bd6be3f?source&#x3D;rss-83a3482f034e------2) 
-*Postman Scripting: Automate Requests, Process Data &amp; Secure Secrets
-Continue reading on Syntest »*
-#### [How Custom Assertions are Useful in Playwright?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;how-custom-assertions-are-useful-in-playwright-f1d515092889?source&#x3D;rss-83a3482f034e------2) 
-*Elevating Your Test Automation
-Continue reading on Syntest »*
-#### [How to Avoid 7 Deadly Anti-Patterns in Software Automation Testing?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;how-to-avoid-7-deadly-anti-patterns-in-software-automation-testing-2bd460424e9f?source&#x3D;rss-83a3482f034e------2) 
-*Are your automated tests causing more headaches than solutions? Discover the common pitfalls and how to steer clear of them!
-Continue reading on Syntest »*
-#### [SOLID Design Principles in Software Testing Frameworks](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;solid-design-principles-in-software-testing-frameworks-3689ab6032ff?source&#x3D;rss-83a3482f034e------2) 
-*Real-World Examples with Selenium + Python
-Continue reading on Syntest »*00 Prompt Experiment
 Continue reading on Syntest »*
 <!--END_SECTION:feed-->
 
