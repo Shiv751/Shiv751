@@ -5,6 +5,9 @@ Hi, I'm Shivam Bharadwaj ,<br><br>I am a Sr. Quality Assurance Engineer with an 
 
 ## 📙 Blog Posts:
 <!--START_SECTION:feed-->
+#### [What’s New in Playwright v1.60.0](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-playwright-v1-60-0-74f32c596855?source&#x3D;rss-83a3482f034e------2) 
+*A Deep Dive with Examples
+Continue reading on Syntest »*
 #### [You Wouldn’t Give a Intern Root Access then Why Are You Running AI Agents Without a Sandbox?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;you-wouldnt-give-a-intern-root-access-then-why-are-you-running-ai-agents-without-a-sandbox-bb8fc7507c7c?source&#x3D;rss-83a3482f034e------2) 
 *A deep-dive into building enterprise-grade agentic systems that are safe by default, not secure by accident.
 Continue reading on Syntest »*
@@ -16,9 +19,6 @@ Continue reading on Syntest »*
 Continue reading on Syntest »*
 #### [ What’s New in Playwright v1.59.0](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-playwright-v1-59-0-3a34973e7175?source&#x3D;rss-83a3482f034e------2) 
 *Playwright v1.59.0 Is a Different Beast — Here’s Everything You Need to Know
-Continue reading on Syntest »*
-#### [What’s New in Chrome DevTools 146?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-chrome-devtools-146-d323ff12ecdf?source&#x3D;rss-83a3482f034e------2) 
-*A Developer-Friendly Deep Dive
 Continue reading on Syntest »*
 <!--END_SECTION:feed-->
 
