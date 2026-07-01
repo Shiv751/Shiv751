@@ -5,20 +5,20 @@ Hi, I'm Shivam Bharadwaj ,<br><br>I am a Sr. Quality Assurance Engineer with an 
 
 ## 📙 Blog Posts:
 <!--START_SECTION:feed-->
+#### [90% Fewer Tokens, Same Answers — Here’s What Changed](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;90-fewer-tokens-same-answers-heres-what-changed-55f06766eec2?source&#x3D;rss-83a3482f034e------2) 
+*All I Had to Do Was Stop Being Lazy About Context
+Continue reading on Syntest »*
+#### [Dependabot + Copilot &#x3D; The Duo That Killed My Most Boring Task](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;dependabot-copilot-the-duo-that-killed-my-most-boring-task-0263c538a84f?source&#x3D;rss-83a3482f034e------2) 
+*Dependabot Opens 47 PRs. Copilot Fixes Them. I Just Hit Merge.
+Continue reading on Syntest »*
+#### [What’s New in Playwright v1.61.0](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-playwright-v1-61-0-801e3d6533fd?source&#x3D;rss-83a3482f034e------2) 
+*And Why It Changes How You Think About Browser Testing
+Continue reading on Syntest »*
 #### [What’s New in Playwright v1.60.0](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-playwright-v1-60-0-74f32c596855?source&#x3D;rss-83a3482f034e------2) 
 *A Deep Dive with Examples
 Continue reading on Syntest »*
 #### [You Wouldn’t Give a Intern Root Access then Why Are You Running AI Agents Without a Sandbox?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;you-wouldnt-give-a-intern-root-access-then-why-are-you-running-ai-agents-without-a-sandbox-bb8fc7507c7c?source&#x3D;rss-83a3482f034e------2) 
 *A deep-dive into building enterprise-grade agentic systems that are safe by default, not secure by accident.
-Continue reading on Syntest »*
-#### [10 Best Free MCP Servers for Developers in 2026](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;10-best-free-mcp-servers-for-developers-in-2026-20bd96314f4b?source&#x3D;rss-83a3482f034e------2) 
-*TL;DR — Imagine your AI assistant could actually do things — not just explain code, but open a browser, talk to your database, run your…
-Continue reading on Syntest »*
-#### [Why I Stopped Writing Playwright Tests &amp; Let Copilot Read the Jira Ticket and Create PR Instead?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;why-i-stopped-writing-playwright-tests-let-copilot-read-the-jira-ticket-and-create-pr-instead-e1b9bbfa0222?source&#x3D;rss-83a3482f034e------2) 
-*How I Used MCP Servers to Turn Jira Tickets Into Reviewable Playwright PRs?
-Continue reading on Syntest »*
-#### [ What’s New in Playwright v1.59.0](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-playwright-v1-59-0-3a34973e7175?source&#x3D;rss-83a3482f034e------2) 
-*Playwright v1.59.0 Is a Different Beast — Here’s Everything You Need to Know
 Continue reading on Syntest »*
 <!--END_SECTION:feed-->
 
