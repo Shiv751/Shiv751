@@ -5,6 +5,9 @@ Hi, I'm Shivam Bharadwaj ,<br><br>I am a Sr. Quality Assurance Engineer with an 
 
 ## 📙 Blog Posts:
 <!--START_SECTION:feed-->
+#### [Why Software Fundamentals Still Matter in the Age of AI?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;why-software-fundamentals-still-matter-in-the-age-of-ai-83ef54f22a81?source&#x3D;rss-83a3482f034e------2) 
+*Uncle Bob (Robert C. Martin) on the Future of Coding
+Continue reading on Syntest »*
 #### [Run Your Local AI as Copilot in VS Code Using Gemma4](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;run-your-local-ai-as-copilot-in-vs-code-using-gemma4-b0edeef13696?source&#x3D;rss-83a3482f034e------2) 
 *Run Your Local AI as Copilot in VS Code Using Gemma 4
 Continue reading on Syntest »*
@@ -16,9 +19,6 @@ Continue reading on Syntest »*
 Continue reading on Syntest »*
 #### [Dependabot + Copilot &#x3D; The Duo That Killed My Most Boring Task](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;dependabot-copilot-the-duo-that-killed-my-most-boring-task-0263c538a84f?source&#x3D;rss-83a3482f034e------2) 
 *Dependabot Opens 47 PRs. Copilot Fixes Them. I Just Hit Merge.
-Continue reading on Syntest »*
-#### [What’s New in Playwright v1.61.0](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;whats-new-in-playwright-v1-61-0-801e3d6533fd?source&#x3D;rss-83a3482f034e------2) 
-*And Why It Changes How You Think About Browser Testing
 Continue reading on Syntest »*
 <!--END_SECTION:feed-->
 
