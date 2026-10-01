@@ -5,6 +5,9 @@ Hi, I'm Shivam Bharadwaj ,<br><br>I am a Sr. Quality Assurance Engineer with an 
 
 ## 📙 Blog Posts:
 <!--START_SECTION:feed-->
+#### [Stop Paying GPT to Say “Yes” or “No”](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;stop-paying-gpt-to-say-yes-or-no-c3027b291b40?source&#x3D;rss-83a3482f034e------2) 
+*200x Faster Than GPT-5.1: Inside TypeSafe AI’s Jev
+Continue reading on Syntest »*
 #### [Why Software Fundamentals Still Matter in the Age of AI?](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;why-software-fundamentals-still-matter-in-the-age-of-ai-83ef54f22a81?source&#x3D;rss-83a3482f034e------2) 
 *Uncle Bob (Robert C. Martin) on the Future of Coding
 Continue reading on Syntest »*
@@ -16,9 +19,6 @@ Continue reading on Syntest »*
 Continue reading on Syntest »*
 #### [90% Fewer Tokens, Same Answers — Here’s What Changed](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;90-fewer-tokens-same-answers-heres-what-changed-55f06766eec2?source&#x3D;rss-83a3482f034e------2) 
 *All I Had to Do Was Stop Being Lazy About Context
-Continue reading on Syntest »*
-#### [Dependabot + Copilot &#x3D; The Duo That Killed My Most Boring Task](https:&#x2F;&#x2F;medium.com&#x2F;syntest&#x2F;dependabot-copilot-the-duo-that-killed-my-most-boring-task-0263c538a84f?source&#x3D;rss-83a3482f034e------2) 
-*Dependabot Opens 47 PRs. Copilot Fixes Them. I Just Hit Merge.
 Continue reading on Syntest »*
 <!--END_SECTION:feed-->
 
